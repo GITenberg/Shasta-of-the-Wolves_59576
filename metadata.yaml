@@ -1,11 +1,16 @@
 _repo: Shasta-of-the-Wolves_59576
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59576-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Baker, Olaf
     gutenberg_agent_id: '35662'
     url: http://www.gutenberg.org/2009/agents/35662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59576#Shasta-of-the-Wolves
 gutenberg_issued: '2019-05-27'
 gutenberg_type: Text
 identifiers:
